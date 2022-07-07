@@ -4,10 +4,11 @@ import FloorPlan from './FloorPlan'
 
 function App() {
   return (
-    <div>
-      <FloorPlan />
-    </div>
-  );
+    <>
+    <FloorPlan />
+    </>
+      
+  )
 }
 
 export default App;

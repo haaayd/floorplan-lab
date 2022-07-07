@@ -7,6 +7,7 @@ import Bath from "./Bath"
 const FloorPlan = () => {
   return ( 
     <>
+    <Bedroom bedNum={1} />
     <Kitchen />
     <LivingRoom />
     <Bedroom bedNum={1} />
