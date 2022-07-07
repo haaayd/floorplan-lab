@@ -5,13 +5,13 @@ const Kitchen = () => {
   return (  
     <>
     <div className="kitchen"> 
-    <span>Kitchen</span>
     <Oven />
     <Sink /> 
+    <span id="kitch">Kitchen</span>
     </div>
 
     </>
-  );
+  )
 }
 
-export default Kitchen;
+export default Kitchen

@@ -9,4 +9,4 @@ const Bath = (props) => {
   );
 }
 
-export default Bath;
+export default Bath
