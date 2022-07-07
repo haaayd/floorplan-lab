@@ -1,6 +1,5 @@
 import './App.css'
-// import the default export of the FloorPlan.js module 
-import FloorPlan from './FloorPlan';
+import FloorPlan from './FloorPlan'
 
 
 function App() {
