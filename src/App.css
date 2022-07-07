@@ -42,3 +42,30 @@ div {
   margin: 5px;
   padding: 5px;
 }
+
+.livingroom{
+  background-color: #EFE7BC;
+  
+}
+.kitchen {
+  display: flex;
+  justify-content: right;
+  background-color: #FFA384
+
+}
+.sink{
+  display: flex;
+  justify-content: flex-start;
+  background-color: #B5E5CF;
+}
+.oven {
+  background-color: #543855;
+  color: #EFE7BC;
+}
+
+.bedroom {
+  background-color: #658EA9;
+}
+.bath {
+  background-color: #74BDCB;
+}
