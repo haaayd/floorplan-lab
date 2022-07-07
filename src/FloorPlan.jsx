@@ -10,11 +10,11 @@ const FloorPlan = () => {
     <Bedroom bedNum={1} />
     <Kitchen />
     <LivingRoom />
-    <Bedroom bedNum={1} />
-    <Bedroom bedNum={2} />
-    <Bedroom bedNum={3} />
     <Bath size="Full"/>
+    <Bedroom bedNum={2} />
     <Bath size="Half"/>
+    <Bedroom bedNum={3} />
+  
     </div>
 
   );
